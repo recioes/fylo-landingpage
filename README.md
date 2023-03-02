@@ -35,7 +35,7 @@ Está é uma solução para o desafio ['Fylo landing page with two column layout
 
 ## 📝 Aprendizado
 
-Embora esteja satisfeita com meu progresso, reconheço que sempre há espaço para melhorias. Olhando para trás, percebo que poderia ter organizado meu código de maneira melhor e torná-lo mais simplificado. Além disso, achei particularmente desafiador tornar o aplicativo responsivo. Como não tinha experiência anterior com Media Queries, tive que dedicar algum tempo para aprender a usá-los de maneira eficaz. De agora em diante, planejo continuar trabalhando neste projeto para torná-lo mais responsivo, especialmente porque me concentrei principalmente no layout para desktop. Apesar dos desafios que enfrentei, estou orgulhoso do que realizei e sinto que adquiri experiência valiosa por meio deste projeto.
+Embora esteja satisfeita com meu progresso, reconheço que sempre há espaço para melhorias. Olhando para trás, percebo que poderia ter organizado meu código de maneira melhor e torná-lo mais simplificado. Além disso, achei particularmente desafiador tornar o aplicativo responsivo. Como não tinha experiência anterior com Media Queries, tive que dedicar algum tempo para aprender a usá-los de maneira eficaz. De agora em diante, planejo continuar trabalhando neste projeto para torná-lo mais responsivo, especialmente porque me concentrei principalmente no layout para desktop. Apesar dos desafios que enfrentei, estou orgulhosa do que realizei e sinto que adquiri experiência valiosa por meio deste projeto.
 
 ## 🔖 Layout
 
