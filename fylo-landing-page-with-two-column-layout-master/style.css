@@ -1,0 +1,423 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: Raleway;
+  font-weight: 400;
+  font-size: 15px;
+  padding: 40px 50px 30px 50px;
+}
+
+#logo {
+  margin-right: auto;
+}
+
+nav {
+  display: flex;
+}
+
+nav a {
+  padding: 10px;
+  margin-left: 20px;
+  color: hsl(238, 22%, 44%);
+  text-decoration: none;
+}
+
+.block1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 50px 80px 50px;
+}
+
+.block1-content {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+}
+
+.block1-content h1 {
+  font-family: Raleway;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.block1-content p {
+  font-family: Open sans-serif;
+  font-weight: 400;
+  margin-top: 8px;
+}
+
+#box1 {
+  height: 30px;
+  width: 250px;
+  margin-top: 15px;
+}
+
+#primeiro button {
+  background-color: hsl(224, 93%, 58%);
+  border-radius: 2px;
+  color: white;
+  height: 30px;
+  width: 150px;
+  border: none;
+  font-weight: bold;
+}
+
+#primeiro button:hover {
+  background-color: hsl(172, 27%, 53%);
+}
+.email {
+  max-width: 80%;
+  max-height: 80%;
+}
+
+.email-content {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.block2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-image: url(./images/bg-curve-desktop.svg);
+  background-position: top;
+  background-size: cover;
+  padding: 60px 50px 0 50px;
+}
+
+.block2-content {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+}
+
+.block2-content h1 {
+  font-family: Raleway;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.block2-content p {
+  font-family: Open sans-serif;
+  font-weight: 400;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.block2-content a {
+  color: hsl(172, 27%, 53%);
+  font-family: Open sans-serif;
+  font-weight: 400;
+}
+
+.block2-content blockquote {
+  font-family: Open sans-serif;
+  font-weight: 400;
+  font-size: medium;
+  line-height: 2;
+}
+
+.comentario {
+  font-family: Open sans-serif;
+  font-weight: 400;
+  padding-left: 40px;
+}
+.img2 {
+  max-width: 80%;
+  max-height: 80%;
+}
+.img2-content {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.acesso {
+  background-color: hsl(237, 22%, 43%);
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px 50px 50px 50px;
+}
+
+.acesso h1 {
+  font-family: Raleway;
+  font-weight: 700;
+  margin-bottom: 8px;
+  font-size: 25px;
+}
+
+.acesso p {
+  font-family: Open sans-serif;
+  font-weight: 400;
+  margin-top: 8px;
+}
+
+.acesso-content {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+#segundo {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  flex-direction: column;
+  margin-bottom: 12px;
+}
+
+#segundo button {
+  margin-top: 12px;
+  background-color: hsl(224, 93%, 58%);
+  border-radius: 2px;
+  color: white;
+  height: 30px;
+  width: 150px;
+  border: none;
+  font-weight: bold;
+}
+
+#segundo button:hover {
+  background-color: hsl(172, 27%, 53%);
+}
+
+.conjunto-emailbotao {
+  display: flex;
+  width: 70%;
+  flex-direction: column;
+}
+
+#box2 {
+  margin-top: 12px;
+  height: 40px;
+  width: 60%;
+}
+
+.reachme {
+  background-color: hsl(243, 87%, 12%);
+  padding: 50px 50px 120px 50px;
+  color: white;
+  font-family: Raleway;
+  font-weight: 400;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  line-height: 3;
+}
+
+.logotipo2 {
+  mix-blend-mode: difference;
+  filter: invert(1) grayscale(1) brightness(10000%);
+}
+
+.contato1 img {
+  padding-right: 5px;
+}
+
+.contato2 img {
+  padding-right: 5px;
+}
+
+.redesSociais img {
+  width: 25px;
+  height: 25px;
+  mix-blend-mode: difference;
+  filter: invert(1) grayscale(1) brightness(10000%);
+}
+
+.sobre-pai {
+  padding-top: 10%;
+}
+
+.privacidade-pai {
+  padding-top: 7%;
+}
+
+.redesSociais {
+  padding-top: 3%;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  font-size: large;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  font-family: Raleway;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 640px) {
+  /* Primeira seção  */
+
+  .block1 {
+    display: block;
+    width: 100%;
+    align-items: center;
+    padding: 5% 10% 5% 10%;
+  }
+  .block1-content {
+    display: block;
+    width: 100%;
+    align-items: center;
+  }
+
+  /* segunda seção  */
+  .block2 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    padding: 5% 10% 5% 10%;
+    background-size: cover;
+  }
+
+  .block2-content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    background-size: cover;
+  }
+
+  /* Terceira seção  */
+  .acesso {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
+
+  .acesso-content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
+  /* quarta seção  */
+  .reachme {
+    display: block;
+    width: 100%;
+    align-items: center;
+  }
+
+  .contato1 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
+
+  .contato2 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
+
+  .sobre-pai {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
+
+  .redesSociais {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
+
+  .privacidade-pai {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
+  /* citação  */
+  .comentario {
+    display: block;
+    width: 100%;
+    align-items: center;
+    align-items: center;
+  }
+
+  /* Primeira ilustração  */
+  .email {
+    display: none;
+  }
+  /* segunda ilustração  */
+  .img2 {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    width: 100%;
+    align-items: center;
+  }
+  /* navegação  */
+  header {
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
+
+  /* botões  */
+  #primeiro button {
+    display: block;
+    width: 100%;
+    align-items: center;
+  }
+
+  #segundo button {
+    display: block;
+    width: 100%;
+    align-items: center;
+  }
+
+  /* inputs  */
+  #box1 {
+    display: block;
+    width: 100%;
+    align-items: center;
+  }
+
+  #box2 {
+    display: block;
+    width: 100%;
+    align-items: center;
+  }
+  .conjunto-emailbotao {
+    display: block;
+    width: 100%;
+    align-items: center;
+  }
+
+  .attribution {
+    width: 100%;
+    align-items: center;
+    font-size: small;
+  }
+}

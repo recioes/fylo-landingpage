@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+    <link rel="stylesheet" href="./style.css" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@400;700&display=swap"
+      rel="stylesheet" />
+
+    <title>Fylo landing page with two column layout</title>
+  </head>
+  <body>
+    <header>
+      <img id="logo" src="./images/logo.svg" alt="logotipo" />
+      <nav>
+        <a href="#">Features</a>
+        <a href="#"> Team</a>
+        <a href="#">Sign in</a>
+      </nav>
+    </header>
+    <main>
+      <section class="block1">
+        <div class="block1-content">
+          <h1>All your files in one secure location, accessible anywhere.</h1>
+          <p>
+            Fylo stores your most important files in one secure location. Access
+            them wherever you need, share and collaborate with friends, family,
+            and co-workers.
+          </p>
+          <form action="" name="caixa1" id="primeiro">
+            <input
+              type="email"
+              id="box1"
+              placeholder="please, check your e-mail"
+              autocomplete="email"
+              pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
+              title="please, check a valid e-mail" />
+            <button type="submit">Get Started</button>
+          </form>
+        </div>
+        <div class="email-content">
+          <img src="./images/illustration-1.svg" alt="email" class="email" />
+        </div>
+      </section>
+      <section class="block2">
+        <div class="block2-content">
+          <h1>Stay productive, wherever you are</h1>
+          <p id="p1">
+            Never let location be an issue when accessing your files. Fylo has
+            you covered for all of your file storage needs.
+          </p>
+          <p id="p2">
+            Securely share files and folders with friends, family and colleagues
+            for live collaboration. No email attachments required!
+          </p>
+          <p>
+            <a href=""
+              >See how Fylo works
+              <img src="./images/icon-arrow.svg" alt="arrow" class="arrow"
+            /></a>
+          </p>
+          <blockquote>
+            <img src="./images/icon-quotes.svg" alt="quote" />
+            <br />
+            Fylo has improved our team productivity by an order of magnitude.
+            Since making the switch our team has become a well-oiled
+            collaboration machine.
+          </blockquote>
+          <div class="comentario">
+            <strong>Kyle Burton</strong><br />
+            <em> Founder &amp; CEO, Huddle</em>
+          </div>
+        </div>
+        <div class="img2-content">
+          <img src="./images/illustration-2.svg" alt="img2" class="img2" />
+        </div>
+      </section>
+    </main>
+    <div class="acesso">
+      <div class="acesso-content">
+        <h1>Get early access today</h1>
+        <p>
+          It only takes a minute to sign up and our free starter tier is
+          extremely generous. If you have any questions, our support team would
+          be happy to help you.
+        </p>
+      </div>
+      <form action="" name="acesso_gratuito" id="segundo">
+        <div class="conjunto-emailbotao">
+          <input
+            type="email"
+            id="box2"
+            placeholder="please, check your e-mail"
+            autocomplete="email"
+            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
+            title="please, check a valid e-mail" />
+          <button type="submit">Get Started For Free</button>
+        </div>
+      </form>
+    </div>
+    <section class="reachme">
+      <div class="contato-pai">
+        <img src="./images/logo.svg" alt="logotipo2" class="logotipo2" />
+        <div class="contato1">
+          <img src="./images/icon-phone.svg" alt="phone" /> Phone:
+          +1-543-123-4567
+        </div>
+        <div class="contato2">
+          <img src="./images/icon-email.svg" alt="mail" /> example@fylo.com
+        </div>
+      </div>
+      <div class="sobre-pai">
+        <div class="sobre1">About us</div>
+        <div class="sobre2">Jobs</div>
+        <div class="sobre3">Press</div>
+        <div class="sobre4">Blog</div>
+      </div>
+      <div class="privacidade-pai">
+        <div class="privacidade1">Contact us</div>
+        <div class="privacidade2">Terms</div>
+        <div class="privacidade3">Privacy</div>
+      </div>
+      <div class="redesSociais">
+        <img src="./images/facebook.svg" alt="fb" />
+        <img src="./images/twitter.svg" alt="twitter" />
+        <img src="./images/instagram.svg" alt="instagram" />
+      </div>
+    </section>
+    <footer>
+      <p class="attribution">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+          >Frontend Mentor</a
+        >. Coded by
+        <a href="https://github.com/recioes" target="_blank">Esther Recio</a> ©
+        02/2023
+      </p>
+    </footer>
+  </body>
+</html>
