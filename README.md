@@ -1,7 +1,7 @@
 <h1 align="center"> Fylo landing page  </h1>
 
 <p align="center">
-Este desafio da Frontend Mentor foi uma ótima oportunidade para eu aperfeiçoar minhas habilidades em CSS e HTML. A intenção era praticar ainda mais alguns conhecimentos recém adquiridos de HTML e CSS. Treinei a tag "form" do HTML vários conceitos do CSS, como as "Media Queries" que ainda estou aprendendo a utilizar. <br/>
+Este desafio do Frontend Mentor foi uma excelente oportunidade para eu aprimorar minhas habilidades em CSS e HTML. A intenção era praticar ainda mais alguns conhecimentos recém-adquiridos em HTML e CSS. Pude treinar o uso da tag "form" do HTML, bem como conceitos avançados do CSS, como as "Media Queries", nas quais ainda estou me aprimorando.<br/>
 
 </p>
 
