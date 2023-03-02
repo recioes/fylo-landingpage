@@ -36,7 +36,7 @@ replicar somente a interface do site (sem utilizar JavaScript) criado pela Front
 
 ## 📝 Aprendizado
 
-Até o momento esse projeto foi o que mais me fez quebrar a cabeça para concluí-lo. Consegui colocar em prática o meu conhecimento a respeito da Tag “form” do HTML, assim como diversos atributos do CSS que eu nunca tinha utilizado antes. Ainda assim, entendo que o código poderia estar mais bem organizado e mais limpo. A parte mais difícil  foi deixar o app responsivo. Eu não tinha conhecimento rico prévio a respeito de Media Queries, então aprendi bastante ao usar esse recurso. Melhorarei o projeto com o tempo (para deixá-lo mais responsivo, principalmente), mas fico feliz por ter aprendido bastante coisa na prática!
+Até o momento esse projeto foi o que mais me fez quebrar a cabeça para concluí-lo. Consegui colocar em prática o meu conhecimento a respeito da Tag “form” do HTML, assim como diversos atributos do CSS que eu nunca tinha utilizado antes. Ainda assim, entendo que o código poderia estar mais bem organizado e mais limpo. A parte mais difícil  foi deixar o app responsivo. Eu não tinha conhecimento rico prévio a respeito de Media Queries, então aprendi bastante ao usar esse recurso. Melhorarei o projeto com o tempo (para deixá-lo mais responsivo, principalmente, visto que foquei muito mais no layout para desktop), mas fico feliz por ter aprendido bastante coisa na prática!
 
 ## 🔖 Layout
 
