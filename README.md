@@ -29,14 +29,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Está é uma solução para o desafio ['Fylo landing page with two column layout' da Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5/hub). Este desafio em específico consistia em 
-replicar somente a interface do site (sem utilizar JavaScript) criado pela Frontend Mentor com HTML e CSS. 
+Está é uma solução para o desafio ['Fylo landing page with two column layout' da Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5/hub). Este desafio específico exigiu que eu replicasse a interface de um site criado pelo Frontend Mentor utilizando somente HTML e CSS, sem o uso de JavaScript. Foi um projeto bastante desafiador e me levou algum tempo para concluí-lo. No entanto, isso me ajudou a aprimorar meu conhecimento sobre a tag "form" do HTML e pude explorar muitos atributos do CSS que ainda não havia usado antes.
 
 - [Visite o projeto online](https://recioes.github.io/fylo-landingpage/)
 
 ## 📝 Aprendizado
 
-Até o momento esse projeto foi o que mais me fez quebrar a cabeça para concluí-lo. Consegui colocar em prática o meu conhecimento a respeito da Tag “form” do HTML, assim como diversos atributos do CSS que eu nunca tinha utilizado antes. Ainda assim, entendo que o código poderia estar mais bem organizado e mais limpo. A parte mais difícil  foi deixar o app responsivo. Eu não tinha conhecimento rico prévio a respeito de Media Queries, então aprendi bastante ao usar esse recurso. Melhorarei o projeto com o tempo (para deixá-lo mais responsivo, principalmente, visto que foquei muito mais no layout para desktop), mas fico feliz por ter aprendido bastante coisa na prática!
+Embora esteja satisfeita com meu progresso, reconheço que sempre há espaço para melhorias. Olhando para trás, percebo que poderia ter organizado meu código de maneira melhor e torná-lo mais simplificado. Além disso, achei particularmente desafiador tornar o aplicativo responsivo. Como não tinha experiência anterior com Media Queries, tive que dedicar algum tempo para aprender a usá-los de maneira eficaz. De agora em diante, planejo continuar trabalhando neste projeto para torná-lo mais responsivo, especialmente porque me concentrei principalmente no layout para desktop. Apesar dos desafios que enfrentei, estou orgulhoso do que realizei e sinto que adquiri experiência valiosa por meio deste projeto.
 
 ## 🔖 Layout
 
